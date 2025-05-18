@@ -26,5 +26,6 @@ function sumar($a, $b) {
  * @return int Resultado de la resta
  */
 function restar($a, $b) {
+    echo "Resta realizada";
     return $a - $b;
 }
